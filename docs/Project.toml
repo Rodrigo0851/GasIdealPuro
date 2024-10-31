@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+GasIdealPuro = "89edbfd8-bbbc-4f03-840a-18dcb02898fb"
